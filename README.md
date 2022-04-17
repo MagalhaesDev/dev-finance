@@ -45,6 +45,7 @@ The main features of the application are:
  - Mobile First
  - Balance sheet of income, expenses and total
  - System for adding transition
+ - LocalStorage
  - a history input and output, descriptive and interative
 
 ## Links
