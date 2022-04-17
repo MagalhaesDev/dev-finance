@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/MagalhaesDev/Memory-Game/blob/main/images/sony.png)
+![Logo of the project](https://github.com/MagalhaesDev/dev-finance/blob/main/assets/icon-money.png)
 
 
 ## Dev finance
