@@ -33,11 +33,16 @@ Here are the technologies used in this project.
 
 ### 4 - In this section we have the history of your finances containing descriptions, value, dates and a button for removing items, all in a table format.
 
-![Ranking](https://github.com/MagalhaesDev/dev-finance/blob/main/readme/historic.png)
+![Historic](https://github.com/MagalhaesDev/dev-finance/blob/main/readme/historic.png)
+
+### 5 - Mobile First
+
+![Mobile](https://github.com/MagalhaesDev/dev-finance/blob/main/readme/mobile.png)
 
 ## Features
 
 The main features of the application are:
+ - Mobile First
  - Balance sheet of income, expenses and total
  - System for adding transition
  - a history input and output, descriptive and interative
