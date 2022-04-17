@@ -2,7 +2,7 @@
 
 
 ## Dev finance
- This page was developed through the programmer BR course, in order to bring the old memory game. With a scoring system, showing how many moves you have won, besides the theme being related to the programming world with images of technologies.
+ This project was developed at the end of Rocketseat's Fundamentals course, and has the idea of bringing a personal finance system, balancing a person's income and expenses. Working mobile first and clean code.
 
 ## Technology 
 
@@ -48,7 +48,7 @@ The main features of the application are:
  - a history input and output, descriptive and interative
 
 ## Links
-  - Repository: https://magalhaesdev.github.io/Memory-Game/
+  - Repository: https://magalhaesdev.github.io/dev-finance/
     -  In case of sensitive bugs like security vulnerabilities, please contact
       mateusmagalhaesemidio@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
