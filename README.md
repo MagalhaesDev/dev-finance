@@ -21,26 +21,26 @@ Here are the technologies used in this project.
 
 ### 1 - This is the main page of the project <3 .
 
-![Homepage image](https://github.com/MagalhaesDev/Memory-Game/blob/main/public/Readme/main.png)
+![Homepage image](https://github.com/MagalhaesDev/dev-finance/blob/main/readme/home.png)
 
-### 2 - Playing. 
+### 2 - This balance system will show the inflows, outflows and total money in your account.
 
-![Playing](https://github.com/MagalhaesDev/Memory-Game/blob/main/public/Readme/game.png)
+![Balance](https://github.com/MagalhaesDev/dev-finance/blob/main/readme/balance.png)
 
-### 3 - Victory screen, with a box to put the name of the winner, a counter system that shows you how many moves you have won, and a button to update the ranking..
+### 3 - This section has the functionality to add a new transaction to your finances, either incoming or outgoing, containing the description, amount and date.
 
-![Victory](https://github.com/MagalhaesDev/Memory-Game/blob/main/public/Readme/victory.png)
+![Transaction](https://github.com/MagalhaesDev/dev-finance/blob/main/readme/transaction.png)
 
-### 4 - Ranking system, showing the players who have won and in how many moves.
+### 4 - In this section we have the history of your finances containing descriptions, value, dates and a button for removing items, all in a table format.
 
-![Ranking](https://github.com/MagalhaesDev/Memory-Game/blob/main/public/Readme/ranking.png)
+![Ranking](https://github.com/MagalhaesDev/dev-finance/blob/main/readme/historic.png)
 
 ## Features
 
 The main features of the application are:
- - Memory game
- - Ranking system
- - Counter system
+ - Balance sheet of income, expenses and total
+ - System for adding transition
+ - a history input and output, descriptive and interative
 
 ## Links
   - Repository: https://magalhaesdev.github.io/Memory-Game/
