@@ -17,7 +17,7 @@ Here are the technologies used in this project.
 * Github
 
 
-## How to use
+## How to use -
 
 ### 1 - This is the main page of the project <3 .
 
